@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AP4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AP4/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AP4/sqlite-jdbc-3.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

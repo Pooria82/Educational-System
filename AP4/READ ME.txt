@@ -1,0 +1,1 @@
+you need to add sqlite-jdbc-3.7.2.jar to your libraries.
